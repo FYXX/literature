@@ -49,6 +49,7 @@
 11¡¢¡¶Deep Video Deblurring¡·
 12¡¢¡¶Image Style Transfer Using Convolutional Neural Networks¡·
 13¡¢¡¶ImageNet Classification with Deep Convolutional Neural Networks¡·
+14¡¢¡¶Deep Temporal Linear Encoding Networks¡·
 
 
 
