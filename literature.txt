@@ -37,16 +37,16 @@
 
 阅读的英文论文
 
-1、《Real-Time Single Image and Video Super-Resolution Using an EfficientSub-Pixel Convolutional Neural Network》（SP-CNN）
-2、《Photo-Realistic Single Image Super-Resolution Using a Generative AdversarialNetwork》（SRGAN）
-3、《Image Super-Resolution Using DeepConvolutional Networks》（SRCNN）
+1、《Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network》（ESPCN）
+2、《Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network》（SRGAN）
+3、《Image Super-Resolution Using Deep Convolutional Networks》（SRCNN）
 4、《Large-scale Video Classification with Convolutional Neural Networks》
 5、《Generative Adversarial Nets》（GAN）
-6、《Semantic Image Inpainting with Perceptual andContextual Losses》
+6、《Semantic Image Inpainting with Perceptual and Contextual Losses》
 7、《Deep Residual Learning for Image Recognition》（ResNet）
-8、《Dropout:  A Simple Way to Prevent Neural Networks fromOver tting》（dropout）
-9、《You Only Look Once:Unified, Real-Time Object Detection》（YOLO）
-10、《RAISR：Rapid and Accurate Image Super Resolution》
+8、《Dropout:  A Simple Way to Prevent Neural Networks from Overtting》（dropout）
+9、《You Only Look Once : Unified, Real-Time Object Detection》（YOLO）
+10、《RAISR：Rapid and Accurate Image Super Resolution》（RAISR）
 11、《Deep Video Deblurring》
 12、《Image Style Transfer Using Convolutional Neural Networks》
 13、《Deep Temporal Linear Encoding Networks》
