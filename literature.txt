@@ -51,6 +51,7 @@
 12¡¢¡¶Image Style Transfer Using Convolutional Neural Networks¡·
 13¡¢¡¶Deep Temporal Linear Encoding Networks¡·
 14¡¢¡¶Is the deconvolution layer the same as a convolutional layer¡·
+15¡¢¡¶Visualizing and Understanding Convolutional Networks¡·
 
 
 
