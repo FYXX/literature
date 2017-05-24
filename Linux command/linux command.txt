@@ -98,4 +98,13 @@ dd                                        删除整行字符
 u                                         撤销操作
 U                                         撤销一行中所做的操作
 
+
+                                git 命令
+git init                                  初始化本地仓库
+git add -A                                将本次所有修改添加到本地仓库
+git commit -m 'information'               把文件提交到本地仓库，information填写本次提交的说明
+git push origin master                    把文件提交到远程仓库，master分支
+git pull                                  把文件从远程仓库更新到本地仓库
+git clone ***                             克隆远程仓库到本地，***为项目地址
+
 以上为本人自我总结的一些常用命令，有错的地方望指出
