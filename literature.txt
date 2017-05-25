@@ -52,6 +52,7 @@
 13¡¢¡¶Deep Temporal Linear Encoding Networks¡·
 14¡¢¡¶Is the deconvolution layer the same as a convolutional layer¡·
 15¡¢¡¶Visualizing and Understanding Convolutional Networks¡·
+16¡¢¡¶Image-to-Image Translation with Conditional Adversarial Networks¡·
 
 
 
