@@ -60,3 +60,4 @@
 
 1¡¢¡¶Convolutional Neural Networks for Visual Recognition¡·
 2¡¢¡¶Image Complryion with Deep Learing in Tensorflow¡·
+3¡¢¡¶Deconvolution and Checkerboard Artifacts¡·
