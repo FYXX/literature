@@ -54,7 +54,7 @@
 15¡¢¡¶Visualizing and Understanding Convolutional Networks¡·
 16¡¢¡¶Image-to-Image Translation with Conditional Adversarial Networks¡·
 17¡¢¡¶Perceptual Losses for Real-Time Style Transfer and Super-Resolution¡·
-
+18¡¢¡¶Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks¡·
 
 
 ÔÄ¶ÁµÄÓ¢ÎÄ²©¿Í
@@ -62,3 +62,5 @@
 1¡¢¡¶Convolutional Neural Networks for Visual Recognition¡·
 2¡¢¡¶Image Complryion with Deep Learing in Tensorflow¡·
 3¡¢¡¶Deconvolution and Checkerboard Artifacts¡·
+4¡¢¡¶Image-to-Image Translation in Tensorflow¡·
+5¡¢¡¶Deconvolution and Checkerboard Artifacts¡·
