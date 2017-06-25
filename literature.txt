@@ -56,6 +56,7 @@
 17¡¢¡¶Perceptual Losses for Real-Time Style Transfer and Super-Resolution¡·
 18¡¢¡¶Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks¡·
 19¡¢¡¶Accurate Image Super-Resolution Using Very Deep Convolutional Networks¡·
+20¡¢¡¶Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks¡·
 
 
 ÔÄ¶ÁµÄÓ¢ÎÄ²©¿Í
