@@ -1,0 +1,22 @@
+推荐一些本人学习期间经常用到的好的软件或在线工具
+
+
+软件、工具：
+
+ShadowsocksR            翻墙软件
+MATLAB                  MATLAB编程软件
+Teambition              在线协同办公软件
+TeamViewer              远程控制软件
+Visual Studio Code      编程软件
+Xmanager                远程连接服务器套件
+Xftp                    远程文件传输软件
+Anconda                 集成的科学计算环境
+jupyter notebook        python在线编辑器
+spyder                  python编辑器
+
+
+
+
+
+
+在线网站/在线工具
