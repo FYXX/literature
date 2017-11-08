@@ -33,7 +33,7 @@
 
 
 
-2017.3-至今
+2017.3-2017.8
 
 阅读的英文论文
 
@@ -66,3 +66,16 @@
 3、《Deconvolution and Checkerboard Artifacts》
 4、《Image-to-Image Translation in Tensorflow》
 5、《Deconvolution and Checkerboard Artifacts》
+
+
+2017.9-至今
+1、《Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution》（LapSRN）
+2、《Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks》（MS-LapSRN）
+3、《Enhanced Deep Residual Networks for Single Image Super-Resolution》（EDSR）
+4、《Image Super-Resolution via Deep Recursive Residual Network》（DRRN）
+5、《Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks》（DCGAN）
+6、《Progressive Growing of GANs for Improved Quality, Stability, and Variation》
+7、
+8、
+9、
+10、
