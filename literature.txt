@@ -75,7 +75,7 @@
 4¡¢¡¶Image Super-Resolution via Deep Recursive Residual Network¡·£¨DRRN£©
 5¡¢¡¶Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks¡·£¨DCGAN£©
 6¡¢¡¶Progressive Growing of GANs for Improved Quality, Stability, and Variation¡·
-7¡¢
-8¡¢
-9¡¢
+7¡¢¡¶Learning a Similarity Metric Discriminatively, with Application to Face Verification¡·
+8¡¢¡¶Densely Connected Convolutional Networks¡·
+9¡¢¡¶Image Super-Resolution Using Dense Skip Connections¡·
 10¡¢
