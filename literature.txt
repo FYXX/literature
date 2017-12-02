@@ -78,4 +78,5 @@
 7¡¢¡¶Learning a Similarity Metric Discriminatively, with Application to Face Verification¡·
 8¡¢¡¶Densely Connected Convolutional Networks¡·
 9¡¢¡¶Image Super-Resolution Using Dense Skip Connections¡·
-10¡¢
+10¡¢¡¶Deep Image Prior¡·
+11¡¢¡¶Learning to Compare Image Patches via Convolutional Neural Networks Sergey¡·
