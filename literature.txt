@@ -80,3 +80,7 @@
 9¡¢¡¶Image Super-Resolution Using Dense Skip Connections¡·
 10¡¢¡¶Deep Image Prior¡·
 11¡¢¡¶Learning to Compare Image Patches via Convolutional Neural Networks Sergey¡·
+12¡¢¡¶Signature Verification using a 'Siamese' Time Delay Neural Network¡·
+13¡¢¡¶Dimensionality Reduction by Learning an Invariant Mapping¡·
+14¡¢¡¶Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections¡·
+15¡¢¡¶U-Net Convolutional Networks for Biomedical Image Segmentation¡·
