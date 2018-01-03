@@ -55,7 +55,7 @@
 16¡¢¡¶Image-to-Image Translation with Conditional Adversarial Networks¡·
 17¡¢¡¶Perceptual Losses for Real-Time Style Transfer and Super-Resolution¡·
 18¡¢¡¶Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks¡·
-19¡¢¡¶Accurate Image Super-Resolution Using Very Deep Convolutional Networks¡·
+19¡¢¡¶Accurate Image Super-Resolution Using Very Deep Convolutional Networks¡·£¨VDSR£©
 20¡¢¡¶Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks¡·
 
 
@@ -77,10 +77,13 @@
 6¡¢¡¶Progressive Growing of GANs for Improved Quality, Stability, and Variation¡·
 7¡¢¡¶Learning a Similarity Metric Discriminatively, with Application to Face Verification¡·
 8¡¢¡¶Densely Connected Convolutional Networks¡·
-9¡¢¡¶Image Super-Resolution Using Dense Skip Connections¡·
+9¡¢¡¶Image Super-Resolution Using Dense Skip Connections¡·£¨SRDensNet£©
 10¡¢¡¶Deep Image Prior¡·
 11¡¢¡¶Learning to Compare Image Patches via Convolutional Neural Networks Sergey¡·
 12¡¢¡¶Signature Verification using a 'Siamese' Time Delay Neural Network¡·
 13¡¢¡¶Dimensionality Reduction by Learning an Invariant Mapping¡·
 14¡¢¡¶Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections¡·
 15¡¢¡¶U-Net Convolutional Networks for Biomedical Image Segmentation¡·
+16¡¢¡¶Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network¡·£¨DCSCN£©
+17¡¢¡¶Deeply-Recursive Convolutional Network for Image Super-Resolution¡·£¨DRCN£©
+18¡¢¡¶Accelerating the Super-Resolution Convolutional Neural Network¡·£¨FSRCNN£©
